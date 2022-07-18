@@ -18,4 +18,5 @@ As shown in the figure, when you connect a low phase latch followed by a high ph
 Summary:
 
 Generate A Latch Using Mux. Use Back to Back Latches at different clock edges to make a FLop
+
 Latch -> Mux; Mux -> Flop
